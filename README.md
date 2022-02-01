@@ -27,4 +27,7 @@
   - Department controller : same as Employee controller.
 
 ## Crate Service :
-  - Using the help of Mapping create on service for both Controllers(Routes).
+  - Create service for both Employee and Department.
+
+## Craete Module :
+  - create module for Employee and Department and register in `App.module`
