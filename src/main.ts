@@ -4,7 +4,7 @@ import { AppModule } from './app.module';
 
 require('dotenv').config();
 
-const PORT = parseInt(process.env.PORT, 10);
+const PORT = process.env.PORT ? parseInt(process.env.PORT, 10) : 4001;
 
 
 

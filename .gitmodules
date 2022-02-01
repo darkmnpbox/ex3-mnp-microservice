@@ -1,0 +1,15 @@
+[submodule "submodules/rabbitmq-broker"]
+	path = submodules/rabbitmq-broker
+	url = https://github.com/darkmnpbox/rabbitmq-broker.git
+[submodule "submodules/ex3-ms-mapping"]
+	path = submodules/ex3-ms-mapping
+	url = https://github.com/darkmnpbox/ex3-ms-mapping.git
+[submodule "submodules/ex3-ms-entities"]
+	path = submodules/ex3-ms-entities
+	url = https://github.com/darkmnpbox/ex3-ms-entities.git
+[submodule "submodules/ex3-ms-framework"]
+	path = submodules/ex3-ms-framework
+	url = https://github.com/darkmnpbox/ex3-ms-framework.git
+[submodule "submodules/ex3-ms-dtos"]
+	path = submodules/ex3-ms-dtos
+	url = https://github.com/darkmnpbox/ex3-ms-dtos.git
